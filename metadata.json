@@ -1,0 +1,7 @@
+{
+  "name": "Connexo",
+  "description": "A real-time GIS-enabled platform matching mobile vendor carts to customers using GPS data and AI-powered dispatching.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
